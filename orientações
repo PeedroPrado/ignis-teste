@@ -1,0 +1,6 @@
+Instale o react-leaflet e suas dependências:
+
+Se ainda não fez isso, você pode instalar o react-leaflet e os tipos necessários:
+
+npm install react-leaflet leaflet
+npm install @types/leaflet --save-dev
